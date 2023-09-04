@@ -1,0 +1,8 @@
+h1 {
+    border: 10px dotted gold;
+    border-radius: 50px;
+    background-color: lime;
+    text-align: center;
+    box-shadow: 5px 5px gray;
+    font-size: 500px;
+}
