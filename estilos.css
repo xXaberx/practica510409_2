@@ -1,8 +1,87 @@
-h1 {
+/* h1 {
     border: 10px dotted gold;
     border-radius: 50px;
     background-color: lime;
     text-align: center;
     box-shadow: 5px 5px gray;
     font-size: 500px;
+}
+ */
+/* * {
+    border: 1px dashed blue;
+}
+
+#link1 {
+    font-size: 20px;
+}
+#link3 {
+    background-color: aquamarine
+}
+
+.rojo {
+    background-color: red;
+    border: 5px groove tomato;
+    border-radius: 5px;
+}
+
+.verde {
+    background-color: green;
+    border: 5px inset greenyellow;
+    border-radius: 5px;
+}
+
+h1.verde {
+    font-size: 25px
+}
+
+/* burcar un atributo sin importar valor */
+
+/* [href] {
+    border-bottom: 5px solid blue;
+} */
+
+/* [lang]{
+    color: aqua
+}
+
+[href="#"] {
+    background-color: lime;
+}
+[href*="you"]{
+    color: red;
+}
+
+[href="#"] {
+    background-color: blueviolet;
+}
+
+[href $= "https"] {
+    font-size: 10px;
+    color: coral;
+} */
+
+#mp1 {
+    border: top 3px;
+    border-color: blue;
+}
+
+main {
+    background-color: gold;
+}
+
+aside {
+    background-color: red;
+}
+
+#mp1 ul > footer {
+    background-color: purple;
+    border: 5px double gray;
+}
+
+h2 ~ article {
+    box-shadow: 10px 10px 10px palevioletred
+}
+
+#h2 + article {
+    border-top: 5px double blue;
 }
